@@ -1,0 +1,39 @@
+.content{
+	width: 100%;height: 100%;margin-top: 50upx;
+}
+.i{
+	 margin-left: 20upx;
+}
+.input{
+	width: 600upx;border: 1px black solid; border-radius: 50upx;font-size: 30upx;text-align: center;margin-top: 20upx;display: inline-block;
+	background: #f4f4f4;
+}
+.img{
+	width: 50upx;height: 50upx;display: inline-block;margin-left: 50upx;
+}
+.top{
+	height: 100upx;width: 100%;margin-top: 10upx;
+}
+.swiper-box image{
+	width: 100%;height: 300upx;
+}
+.qs{
+	width: 700upx;height: 230upx;border: 1upx solid #DDDDDD;border-radius: 20upx;margin: 20upx auto;
+}
+.qs image{
+	width: 200upx;height: 200upx;
+}
+.wz1{
+	font-size: 40upx;display: inline-block;vertical-align: bottom;min-height: 220upx;margin-left: 30upx;font-weight: 550;line-height: 150upx;
+}
+.wz2{
+	font-size: 30upx;display: inline-block;vertical-align: bottom;line-height: 150upx;margin-left: -120upx;
+}
+
+.g{
+	display: inline-block;vertical-align: bottom;line-height: 180upx;margin-left: 30upx;
+}
+.g image{
+	width: 80upx;height: 80upx;
+}
+
